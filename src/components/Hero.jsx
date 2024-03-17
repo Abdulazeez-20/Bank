@@ -10,7 +10,7 @@ const Hero = () => (
                 <img src={discount} alt="discound" className='w-[32px] h-[32px]' />
                 <p className={`${styles.paragraph}`}>
                     <span className='text-white'>20%</span> Discount for {" "}
-                    <span className='text-white'>1 Month</span> Account
+                    <span className='font-bold text-white'>1 Month</span> Account
                 </p>
             </div>
 
@@ -22,6 +22,7 @@ const Hero = () => (
                     <span className='text-gradient'>Generation</span> {" "}
                     Payment Method.
                 </h1>
+                <img src={robot} alt="robot img" className='w-full' />
             </div>
         </div>
     </section>
