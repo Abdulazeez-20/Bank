@@ -23,6 +23,7 @@ const Hero = () => (
                     Payment Method.
                 </h1>
                 <img src={robot} alt="robot img" className='w-full' />
+                <h3>just a test</h3>
             </div>
         </div>
     </section>
