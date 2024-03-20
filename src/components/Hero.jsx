@@ -24,6 +24,7 @@ const Hero = () => (
                 </h1>
                 <img src={robot} alt="robot img" className='w-full' />
                 <h3>just a test</h3>
+                <h1>you are making a large gap in your timeline</h1>
             </div>
         </div>
     </section>
